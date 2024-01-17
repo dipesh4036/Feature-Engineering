@@ -4,3 +4,15 @@
 
 # Table of Contents and Code Examples :
 Below is a list of methods currently implemented in the repo.
+
+
+ ## 1.Missing Values.   
+-> first find isnull.sum to NAN column
+ - Imputation Missing Values:
+    - 1. Mean Value Imputation-   If diagram give Normal Distribution
+    - 2. Median Value Imputation- If we have outliers in the dataset use median
+    - 3. Mode Imputation Technqiue- Categorical values
+
+
+	
+
