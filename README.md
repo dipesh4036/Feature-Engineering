@@ -7,7 +7,7 @@ Below is a list of methods currently implemented in the repo.
 
 
  ## 1.Missing Values: 
-[View File](https://github.com/dipesh4036/Feature-Engineering/blob/main/Handling%20Missing%20values.ipynb)
+- [View File](https://github.com/dipesh4036/Feature-Engineering/blob/main/Handling%20Missing%20values.ipynb)
 
 -> first find isnull.sum to NAN column
 - Imputation Missing Values:
@@ -16,10 +16,13 @@ Below is a list of methods currently implemented in the repo.
 	 - 3. Mode Imputation Technqiue- Categorical values
      
 ## 2. Handling Imbalanced Dataset:
-[View File](https://github.com/dipesh4036/Feature-Engineering/blob/main/Handling%20Missing%20values.ipynb)
+- [View File](https://github.com/dipesh4036/Feature-Engineering/blob/main/Handling%20Missing%20values.ipynb)
 - Upsampling
 - Down Sampling
 
+## 3. SMOTE(Synthetic Minority Oversampling Technique):
+- [View File](https://github.com/dipesh4036/Feature-Engineering/blob/main/SMOTE.ipynb)
+- This is also Handling Imbalanced Dataset Technique.
 
 
 	
