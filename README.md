@@ -28,5 +28,9 @@ Below is a list of methods currently implemented in the repo.
 - [View File](https://github.com/dipesh4036/Feature-Engineering/blob/main/Data%20Interpolation.ipynb)
 - Data interpolation is the process of estimating unknown values within a dataset based on the known values.
 
+## 5. Handling Outliers:
+- [View File](https://github.com/dipesh4036/Feature-Engineering/blob/main/Handling%20Outliers.ipynb.ipynb)
+- Box Plot 
+
 	
 
