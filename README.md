@@ -24,6 +24,9 @@ Below is a list of methods currently implemented in the repo.
 - [View File](https://github.com/dipesh4036/Feature-Engineering/blob/main/SMOTE.ipynb)
 - This is also Handling Imbalanced Dataset Technique.
 
+## 4. Data Interpolation:
+- [View File](https://github.com/dipesh4036/Feature-Engineering/blob/main/Data%20Interpolation.ipynb)
+- Data interpolation is the process of estimating unknown values within a dataset based on the known values.
 
 	
 
